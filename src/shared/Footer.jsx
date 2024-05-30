@@ -10,10 +10,10 @@ const Footer = () => {
         {/* logo and description */}
         <div className="md:w-2/5 my-3">
           <h4 className="text-white font-bold text-2xl tracking-wide">
-            RAM MAHESHWARI
+            IBRAR AHMMED
           </h4>
           <p className="mt-5 text-sm leading-7 text-[#eee]">
-            A Frontend focused Web Developer building the Frontend of Websites
+            A Web Developer building the Frontend of Websites
             and Web Applications that leads to the success of the overall
             product
           </p>
