@@ -3,13 +3,13 @@ const skills = [
     {id: 2, title: 'CSS'},
     {id: 3, title: 'JavaScript'},
     {id: 4, title: 'React'},
-    {id: 5, title: 'SASS'},
+    {id: 5, title: 'Express.js'},
     {id: 6, title: 'GIT'},
     {id: 7, title: 'Github'},
     {id: 8, title: 'Responsive Design'},
-    {id: 9, title: 'SEO'},
-    {id: 10, title: 'Terminal'},
-    {id: 11, title: 'Express Basics'},
+    {id: 9, title: 'Node.js'},
+    {id: 10, title: 'MongoDB'},
+    {id: 11, title: 'Tailwind CSS'},
     {id: 12, title: 'SQL Basics'},
 ]
 

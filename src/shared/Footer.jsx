@@ -37,7 +37,7 @@ const Footer = () => {
 
       {/* copyright text */}
       <div>
-        <p className='md:my-10 py-10 md:py-0 text-sm leading-7 text-[#eee] text-center'>© Copyright 2023. Made by <a href="" className='underline'>Ram Maheshwari</a></p>
+        <p className='md:my-10 py-10 md:py-0 text-sm leading-7 text-[#eee] text-center'>© Copyright 2023. Made by <a href="" className='underline'>IBRAR</a></p>
       </div>
     </div>
   );
